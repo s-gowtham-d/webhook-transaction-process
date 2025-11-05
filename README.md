@@ -72,7 +72,7 @@ This project demonstrates:
 ## 📁 Project Structure
 
 ```
-service/
+confluencr-assessment/
 ├── app/
 │   ├── __init__.py
 │   ├── main.py              # FastAPI application & routes
@@ -104,8 +104,8 @@ service/
 #### 1️⃣ Clone the repository
 
 ```bash
-git clone https://github.com/s-gowtham-d/confluencr-assessment.git
-cd confluencr-assessment/service
+git clone https://github.com/s-gowtham-d/webhook-transaction-process.git
+cd webhook-transaction-process
 ```
 
 #### 2️⃣ Create `.env` file
